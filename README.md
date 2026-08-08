@@ -30,11 +30,20 @@ SpendClear sits between an agent and a payment. Before any transfer executes, it
 | **Agent Skill Framework** | SpendClear implements the mandate-execution pattern: principal verification, counterparty validation, spend controls |
 | **CCP Protocol** | Audit log events are structured for Travel Rule data extraction and compliance reporting |
 
+## Deployed Contracts (Monad Testnet)
+
+| Contract | Address | Explorer |
+|---|---|---|
+| SpendClear | [`0xe97B6F...20aB`](https://testnet.monadvision.com/address/0xe97B6FF1864EC55fe7DA49BEc72786e00DA620aB) | [View](https://testnet.monadvision.com/address/0xe97B6FF1864EC55fe7DA49BEc72786e00DA620aB) |
+| MockCVI | [`0x321798...8283`](https://testnet.monadvision.com/address/0x321798e7A122c9f981059Be3c6b4679ad7668283) | [View](https://testnet.monadvision.com/address/0x321798e7A122c9f981059Be3c6b4679ad7668283) |
+| MockCVA | [`0xc9D40e...5484`](https://testnet.monadvision.com/address/0xc9D40ef967d0BAD2444E96BAa784f60caa4D5484) | [View](https://testnet.monadvision.com/address/0xc9D40ef967d0BAD2444E96BAa784f60caa4D5484) |
+| MockUSDC | [`0xe4Eb14...bDF9`](https://testnet.monadvision.com/address/0xe4Eb146e84d77510B9f1345a217892CA88F5bDF9) | [View](https://testnet.monadvision.com/address/0xe4Eb146e84d77510B9f1345a217892CA88F5bDF9) |
+
 ## Deployed Chain
 
 - **Monad Testnet** (Chain ID: 10143)
   - RPC: `https://testnet-rpc.monad.xyz`
-  - Explorer: `https://testnet.monadexplorer.com`
+  - Explorer: `https://testnet.monadvision.com`
 
 ## Smart Contracts
 
