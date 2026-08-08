@@ -1,0 +1,10 @@
+{
+  "chain": "monad-testnet",
+  "chainId": 10143,
+  "contracts": {
+    "MockCVI": "0x321798e7A122c9f981059Be3c6b4679ad7668283",
+    "MockCVA": "0xc9D40ef967d0BAD2444E96BAa784f60caa4D5484",
+    "MockUSDC": "0xe4Eb146e84d77510B9f1345a217892CA88F5bDF9",
+    "SpendClear": "0xe97B6FF1864EC55fe7DA49BEc72786e00DA620aB"
+  }
+}
