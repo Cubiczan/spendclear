@@ -6,6 +6,5 @@ out/
 cache/
 broadcast/
 .foundry/
-*.mp4
 coverage/
 .DS_Store
